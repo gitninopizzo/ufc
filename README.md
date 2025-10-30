@@ -8,4 +8,8 @@ These rankings are still a work in progress but they are a nice baseline. I am a
 
 I used python to do all of the scraping of the data and creation of the rankings. I used HTML to create the website
 
+I primarily kept my work in a Jupyter Notebook but I put some of my code into two python files in this repository. Those files show how I went about getting the data for the fighters and the fights.
+
 https://gitninopizzo.github.io/ufc
+
+I got all of the data that I used from http://www.ufcstats.com/statistics/events/completed and http://www.ufcstats.com/statistics/fighters
